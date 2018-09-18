@@ -8,7 +8,7 @@ print(str)
 /*
  1. private
  2. fileprivate - Avaible in that file only
- 3. internal - By default(Everything we dont see before init)(Availbe within that module)
+ 3. internal - By default(Everything we dont see before init in normal files)(Available within that module)
  4. public - Cannot be overriden
  5. open - can be overriden
  */
